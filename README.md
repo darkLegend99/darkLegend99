@@ -57,9 +57,9 @@ Here are some ideas to get you started: -->
 <hr>
 <Br>
 
-<img height="250em" align="left" src="https://github-readme-stats.vercel.app/api?username=darkLegend99&theme=white&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="220em" align="left" src="https://github-readme-stats.vercel.app/api?username=darkLegend99&theme=white&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkLegend99&theme=white" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkLegend99&theme=white" />
  
 
 
