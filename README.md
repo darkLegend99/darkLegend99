@@ -74,7 +74,11 @@ Here are some ideas to get you started: -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=darkLegend99" alt="darkLegend99" />
   <br/>
-  <img src="https://profile-counter.glitch.me/darkLegend99/count.svg" alt="darkLegend99" />
+ <br />
+ <br />
+ <img src="https://github-profile-trophy.vercel.app/?username=darkLegend99&no-frame=true" />
+ <br/>
+ <br />
 </p>
  
 
