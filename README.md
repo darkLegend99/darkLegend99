@@ -1,5 +1,7 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<h1 align="center" style="display:'inline';">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+<h1 align="center">I am Dark Legend</h1>
 
 <p>Welcome to my page! </br> I'm Dark Legend, Fullstack developer from <img src="https://image.flaticon.com/icons/png/512/555/555462.png" width="13"/> <b>India</b> </p>
 
@@ -12,7 +14,11 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on full stack projects
 - 💬 Ask me about anything related to technology i am working on!
 
-<Br>
+ <p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
 <hr>
 <Br>
 
@@ -30,13 +36,13 @@ Here are some ideas to get you started: -->
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)  
-![Mongodb](https://img.shields.io/badge/-Mongodb-61DAFB?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Mongodb](https://img.shields.io/badge/-Mongodb-61DAFB?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 
 
@@ -45,21 +51,31 @@ Here are some ideas to get you started: -->
 <Br>
 <hr>
 <Br>
-<h2>Some of my Projects! 🎨</h2>
+<div align="center">
+<h2 align="center">Some of my Projects! 🎨</h2>
 <Br>
-  
+ 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=darkLegend99&repo=Web-Development-Projects)](https://github.com/darkLegend99/Web-Development-Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=darkLegend99&repo=Nodejs-Projects)](https://github.com/darkLegend99/Nodejs-Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=darkLegend99&repo=React-Projects)](https://github.com/darkLegend99/React-Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=darkLegend99&repo=Javascript-Projects)](https://github.com/darkLegend99/Javascript-Projects)
 
 <Br>
+</div>
 <hr>
 <Br>
 
-<img height="220em" align="left" src="https://github-readme-stats.vercel.app/api?username=darkLegend99&theme=white&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkLegend99&theme=white" />
+  
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=darkLegend99&show_icons=true" alt="darkLegend99">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkLegend99&layout=compact&hide=html" alt="darkLegend99" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkLegend99&" alt="darkLegend99" />
+</p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=darkLegend99" alt="darkLegend99" />
+  <br/>
+  <img src="https://profile-counter.glitch.me/darkLegend99/count.svg" alt="darkLegend99" />
+</p>
  
 
 
