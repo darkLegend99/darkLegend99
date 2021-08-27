@@ -69,7 +69,8 @@ Here are some ideas to get you started: -->
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=darkLegend99&show_icons=true" alt="darkLegend99">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkLegend99&layout=compact&hide=html" alt="darkLegend99" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkLegend99&" alt="darkLegend99" />
+ 
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkLegend99&" alt="darkLegend99" /> -->
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=darkLegend99" alt="darkLegend99" />
